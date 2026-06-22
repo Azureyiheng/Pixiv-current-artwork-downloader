@@ -7,6 +7,7 @@ All notable changes to this project are documented here.
 - Changed record clearing from current-artwork-only to all saved download records.
 - Added `GM_listValues` and `GM_deleteValue` permissions to enumerate and remove saved resume records.
 - Updated the panel and Tampermonkey menu text to `Clear all download records`.
+- Rewrote `README.md` as a bilingual Chinese/English document.
 
 ## 1.4.1 - 2026-06-23
 
