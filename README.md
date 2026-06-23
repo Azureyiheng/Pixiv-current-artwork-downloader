@@ -34,9 +34,7 @@ This script only downloads images your current Pixiv account can normally access
 
 ### 从 Greasy Fork 安装 / From Greasy Fork
 
-发布后可以在这里补充 Greasy Fork 脚本地址。
-
-The Greasy Fork script URL can be added here after publishing.
+https://greasyfork.org/zh-CN/scripts/583972-pixiv%E5%9B%BE%E7%89%87%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD-pixiv-current-artwork-downloader
 
 ## 使用方法 / Usage
 
